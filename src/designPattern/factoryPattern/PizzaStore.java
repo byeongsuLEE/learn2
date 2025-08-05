@@ -3,13 +3,12 @@ package designPattern.factoryPattern;
 /**
  * 작성자  : lbs
  * 날짜    : 2025-08-04
- * 풀이방법
+ * 생산자 클래스
  **/
 
 
 public abstract class PizzaStore {
-    SimplePizzaFactory factory;
-
+//    SimplePizzaFactory factory;
 //    public PizzaStore(SimplePizzaFactory factory) {
 //        this.factory = factory;
 //    }
